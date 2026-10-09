@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/iamLiquidX/telegram-clone-worker">
+  <a href="https://deploy.workers.cloudflare.com/?url=https://github.com/codexart-lab/telegram-clone-worker">
     <img src="https://deploy.workers.cloudflare.com/button" alt="Deploy to Cloudflare Workers" />
   </a>
 </p>
